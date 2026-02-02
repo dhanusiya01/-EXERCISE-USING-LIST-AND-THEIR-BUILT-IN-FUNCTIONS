@@ -38,4 +38,4 @@ Copied List: [50, 40, 20, 15, 10]
 Cleared List: []
 
 
-4. EXERCISE BY IMPLEMENTING 
+
